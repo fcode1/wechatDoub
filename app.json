@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/search/search",
+    "pages/movie-grid/movie-grid",
+    "pages/movie-rating/movie-rating",
+    "pages/movie-more/movie-more",
+    "pages/movie-list/movie-list"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00B26A",
+    "navigationBarTitleText": "电影预告",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  }
+}
